@@ -1,4 +1,4 @@
-READ ME!!!
+Application Demo: https://drive.google.com/file/d/1ZqitennaZ9GtsaQWY3i9b-PJvQ08WPkW/view?usp=sharing
 1. File mode can encode or decode files by using key. Examples can be found of how to format the key in the Phrases.txt file
 2. Live Mode can encode or decode a phrase entered by user. User can enter their own key and phrase. Key must be between -2Billion to +2Billion
 If using Generate Key feature:
